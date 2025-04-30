@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0435\u0442\u0438 \u042D\u0412\u041C\\course\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{704C0952-A9FB-4113-8056-7A0C6799CD00}|course.csproj|c:\\users\\user\\source\\repos\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0441\u0435\u0442\u0438 \u044D\u0432\u043C\\course\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{704C0952-A9FB-4113-8056-7A0C6799CD00}|course.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{704C0952-A9FB-4113-8056-7A0C6799CD00}|course.csproj|c:\\users\\user\\source\\repos\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0441\u0435\u0442\u0438 \u044D\u0432\u043C\\course\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{704C0952-A9FB-4113-8056-7A0C6799CD00}|course.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{704C0952-A9FB-4113-8056-7A0C6799CD00}|course.csproj|c:\\users\\user\\source\\repos\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0441\u0435\u0442\u0438 \u044D\u0432\u043C\\course\\serverclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{704C0952-A9FB-4113-8056-7A0C6799CD00}|course.csproj|solutionrelative:serverclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{704C0952-A9FB-4113-8056-7A0C6799CD00}|course.csproj|c:\\users\\user\\source\\repos\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0441\u0435\u0442\u0438 \u044D\u0432\u043C\\course\\clientclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{704C0952-A9FB-4113-8056-7A0C6799CD00}|course.csproj|solutionrelative:clientclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{704C0952-A9FB-4113-8056-7A0C6799CD00}|course.csproj|c:\\users\\user\\source\\repos\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0441\u0435\u0442\u0438 \u044D\u0432\u043C\\course\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{704C0952-A9FB-4113-8056-7A0C6799CD00}|course.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{704C0952-A9FB-4113-8056-7A0C6799CD00}|course.csproj|C:\\Users\\user\\source\\repos\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0435\u0442\u0438 \u042D\u0412\u041C\\course\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{704C0952-A9FB-4113-8056-7A0C6799CD00}|course.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +34,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "ClientClass.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0435\u0442\u0438 \u042D\u0412\u041C\\course\\ClientClass.cs",
               "RelativeDocumentMoniker": "ClientClass.cs",
@@ -42,25 +42,24 @@
               "RelativeToolTip": "ClientClass.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T10:03:33.689Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T10:03:33.689Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ServerClass.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0435\u0442\u0438 \u042D\u0412\u041C\\course\\ServerClass.cs",
               "RelativeDocumentMoniker": "ServerClass.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0435\u0442\u0438 \u042D\u0412\u041C\\course\\ServerClass.cs",
               "RelativeToolTip": "ServerClass.cs",
-              "ViewState": "AgIAAAwBAAAAAAAAAAAgwB4BAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAFsBAAAAAAAAAAAAAB4BAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T09:44:17.044Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0435\u0442\u0438 \u042D\u0412\u041C\\course\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -73,15 +72,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0435\u0442\u0438 \u042D\u0412\u041C\\course\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0435\u0442\u0438 \u042D\u0412\u041C\\course\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T14:03:23.872Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+              "WhenOpened": "2025-04-29T14:03:23.872Z"
             }
           ]
         },

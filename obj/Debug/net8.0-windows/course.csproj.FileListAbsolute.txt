@@ -28,3 +28,4 @@ C:\Users\user\source\repos\6 семестр\Сети ЭВМ\course\bin\Debug\net
 C:\Users\user\source\repos\6 семестр\Сети ЭВМ\course\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
 C:\Users\user\source\repos\6 семестр\Сети ЭВМ\course\obj\Debug\net8.0-windows\course.csproj.AssemblyReference.cache
 C:\Users\user\source\repos\6 семестр\Сети ЭВМ\course\obj\Debug\net8.0-windows\course.csproj.Up2Date
+C:\Users\user\source\repos\6 семестр\Сети ЭВМ\course\obj\Debug\net8.0-windows\course.sourcelink.json
